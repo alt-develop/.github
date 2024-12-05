@@ -1,0 +1,8 @@
+{
+    "name": "PR Agent Workflow",
+    "description": "PR Agent workflow template.",
+    "iconName": "pr_agent",
+    "categories": [
+        "CI/CD"
+    ]
+}
